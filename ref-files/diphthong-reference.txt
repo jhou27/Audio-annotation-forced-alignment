@@ -1,0 +1,14 @@
+IPA	Jyutping
+aːi	aai
+aːu	aau
+ɐi	ai
+ɐu	au
+ei	ei
+ɪi	ei
+ɛu	eu
+iu	iu
+ɔi	oi
+ou	ou
+ʊu	ou
+ui	ui
+ɵy	eoi

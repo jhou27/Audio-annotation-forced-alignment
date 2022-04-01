@@ -1,0 +1,736 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 92.0105209350586
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Phones"
+		xmin = 0.0
+		xmax = 92.0105209350586
+		intervals: size = 107
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.512
+			text = "sil"
+		intervals [2]:
+			xmin = 2.512
+			xmax = 3.357
+			text = "{@|k-@|O:|N-O:|k-O:}
+{k-u:|k-O:-N}
+{ts-6-i:|ts-i:}
+{w-a:|h-a:|a:|j-a:|@|N-@|N-a:|n-@|m-@|m-a:|j-@|w-@|n-a:}"
+		intervals [3]:
+			xmin = 3.357
+			xmax = 3.416
+			text = "sil"
+		intervals [4]:
+			xmin = 3.416
+			xmax = 4.45
+			text = "{@|k-@|O:|N-O:|k-O:}
+p-a:
+p-a:"
+		intervals [5]:
+			xmin = 4.45
+			xmax = 4.781
+			text = "sil"
+		intervals [6]:
+			xmin = 4.781
+			xmax = 8.839
+			text = "{m-i:-u:|m-6-i:|m-e-i:|m-@}
+{@|k-@|O:|N-O:|k-O:}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+{o-u:|U-u:|h-o-u:|h-U-u:}
+s-9:-N
+t_h-U-N
+p-a:
+p-a:
+{6-k|j-6-t|@|6-t|j-@}
+{ts-a:-i:|ts-6-i:|ts_h-6-i:|ts-i:}
+{w-u:-n|w-a:-n}
+{l-@|l-a:|n-@|n-a:}
+{6-u:|@|j-6-u:|j-@}
+ts_h-6-n
+ts-i:
+{k_w-a:-n|k_h_w-a:-n}
+{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+{l-@|l-a:|n-@|n-a:}"
+		intervals [7]:
+			xmin = 8.839
+			xmax = 9.225
+			text = "sil"
+		intervals [8]:
+			xmin = 9.225
+			xmax = 10.329
+			text = "{t-a:|t-6-i:|t-@|t-a:-n|t-a:-i:}
+{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+p-a:
+p-a:
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}
+{ts-6-i:|ts-@|6-u:|@|ts-6-u:|j-@}"
+		intervals [9]:
+			xmin = 10.329
+			xmax = 10.713
+			text = "sil"
+		intervals [10]:
+			xmin = 10.713
+			xmax = 11.408
+			text = "{k-i:-n|j-i:-n}
+{t-o-u:|t-@|U-u:|t-U-u:|o-u:}"
+		intervals [11]:
+			xmin = 11.408
+			xmax = 12.135
+			text = "sil"
+		intervals [12]:
+			xmin = 12.135
+			xmax = 12.429
+			text = "{6-u:|@|j-6-u:|j-@}"
+		intervals [13]:
+			xmin = 12.429
+			xmax = 12.487
+			text = "sil"
+		intervals [14]:
+			xmin = 12.487
+			xmax = 15.418
+			text = "{6-i:|k_h-6-i:|k_h-e-i:|k-e-i:}
+s-6-t
+{m|N}
+{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+{o-u:|U-u:|h-o-u:|h-U-u:}
+s-9:-N
+h-O:-i:
+t_h-6-u:
+{m|N}
+{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+{o-u:|U-u:|h-o-u:|h-U-u:}
+s-9:-N
+t_h-U-N
+{k_h-8-y|k-8-y:|h-8-y:|k_h-8-y:|8-y:}
+{w-u:-n|w-a:-n}
+k-E:"
+		intervals [15]:
+			xmin = 15.418
+			xmax = 15.771
+			text = "sil"
+		intervals [16]:
+			xmin = 15.771
+			xmax = 17.599
+			text = "k-6-n
+ts-y:
+{ts-6-i:|ts-@|6-u:|@|ts-6-u:|j-@}
+m-O:-N
+h-a:
+{U-k|N-U-k}
+{l-8-y:|l-e-i:}
+{m-i:-n|p-i:-n}"
+		intervals [17]:
+			xmin = 17.599
+			xmax = 17.622
+			text = "sil"
+		intervals [18]:
+			xmin = 17.622
+			xmax = 18.557
+			text = "{m-i:-u:|m-6-i:|m-e-i:|m-@}
+{a:-n|k-a:-n}
+f-O:-N
+{l-8-y:|l-e-i:}
+{m-i:-n|p-i:-n}"
+		intervals [19]:
+			xmin = 18.557
+			xmax = 18.561208984375
+			text = "sil"
+		intervals [20]:
+			xmin = 18.561208984375
+			xmax = 19.754265625
+			text = "{w-a:|f-a:|j-i:-p}
+{o-u:|U-u:|h-o-u:|h-U-u:}
+{n-y:|l-y:-n}
+{w-a:|w-O:|w-@|k_h_w-a:}"
+		intervals [21]:
+			xmin = 19.754265625
+			xmax = 20.197
+			text = "sil"
+		intervals [22]:
+			xmin = 20.197
+			xmax = 22.495
+			text = "k-6-n
+ts-y:
+{ts-6-i:|ts-@|6-u:|@|ts-6-u:|j-@}
+k-i:-u:
+{@|k-@|O:|N-O:|k-O:}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+{8-y:|h-8-y:}"
+		intervals [23]:
+			xmin = 22.495
+			xmax = 22.854
+			text = "sil"
+		intervals [24]:
+			xmin = 22.854
+			xmax = 23.806
+			text = "ts-6-p
+j-E:
+{l-@|l-a:|n-@|n-a:}"
+		intervals [25]:
+			xmin = 23.806
+			xmax = 24.132
+			text = "sil"
+		intervals [26]:
+			xmin = 24.132
+			xmax = 25.749
+			text = "{m|k-U-m|k-6-m|6-m}
+{@|k-@|O:|N-O:|k-O:}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+ts-6-p
+{l-@|l-a:|n-@|n-a:}
+ts-6-p
+{l-@|l-a:|n-@|n-a:}"
+		intervals [27]:
+			xmin = 25.749
+			xmax = 25.799
+			text = "sil"
+		intervals [28]:
+			xmin = 25.799
+			xmax = 26.627
+			text = "ts-6-p
+{j-y:-n|y:-n}
+ts-i:
+{6-u:|h-6-u:}
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}"
+		intervals [29]:
+			xmin = 26.627
+			xmax = 27.247
+			text = "sil"
+		intervals [30]:
+			xmin = 27.247
+			xmax = 28.844
+			text = "{o-u:|U-u:|h-o-u:|h-U-u:}
+{h-o-u:|ts_h-i:|h-U-u:|ts-i:}
+{o-u:|U-u:|h-o-u:|h-U-u:}
+{ts-I-N|s-I-N}
+{ts-a:-i:|ts-6-i:|ts_h-6-i:|ts-i:}
+{m|k-U-m|k-6-m|6-m}
+{j-9:|j-9:-n|j-9:-N|9:-N}"
+		intervals [31]:
+			xmin = 28.844
+			xmax = 28.855
+			text = "sil"
+		intervals [32]:
+			xmin = 28.855
+			xmax = 30.196
+			text = "p-a:
+p-a:
+j-6-p
+{8-y:|h-8-y:}
+ts_h-E:-k
+{l-@|l-a:|n-@|n-a:}"
+		intervals [33]:
+			xmin = 30.196
+			xmax = 30.455875
+			text = "sil"
+		intervals [34]:
+			xmin = 30.455875
+			xmax = 31.226560546875
+			text = "{8-y:|h-8-y:}
+m-O:-N
+{l-@|l-a:|n-@|n-a:}"
+		intervals [35]:
+			xmin = 31.226560546875
+			xmax = 31.289
+			text = "sil"
+		intervals [36]:
+			xmin = 31.289
+			xmax = 32.94
+			text = "m-O:-N
+{j-y:-n|y:-n}
+ts-i:
+{6-u:|h-6-u:}
+{O:|N-O:}
+j-y:-n
+{l-6-i:|n-O:-i:|l-O:-i:}"
+		intervals [37]:
+			xmin = 32.94
+			xmax = 33.462
+			text = "sil"
+		intervals [38]:
+			xmin = 33.462
+			xmax = 35.647
+			text = "{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+ts-6-p
+{ts_h-6-n|s-a:-i:}
+t-i:
+{w-u:-n|w-a:-n}
+k-8-y:
+h-6-i:"
+		intervals [39]:
+			xmin = 35.647
+			xmax = 35.854
+			text = "sil"
+		intervals [40]:
+			xmin = 35.854
+			xmax = 37.522
+			text = "{tS_h-O:-N|ts_h-O:-N}
+s-9:-N
+{m-i:-n|p-i:-n}
+{w-a:|w-O:|w-@|k_h_w-a:}"
+		intervals [41]:
+			xmin = 37.522
+			xmax = 37.529
+			text = "sil"
+		intervals [42]:
+			xmin = 37.529
+			xmax = 37.912
+			text = "k_h-6-m"
+		intervals [43]:
+			xmin = 37.912
+			xmax = 37.980140625
+			text = "sil"
+		intervals [44]:
+			xmin = 37.980140625
+			xmax = 38.749265625
+			text = "ts-E:
+{ts_h-6-n|s-a:-i:}
+{ts-@-8|ts-I-k|ts-i:-8|ts-E:-k|ts-i:|E:|ts-E:-8|ts-E:}
+{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}"
+		intervals [45]:
+			xmin = 38.749265625
+			xmax = 38.79
+			text = "sil"
+		intervals [46]:
+			xmin = 38.79
+			xmax = 39.377
+			text = "k-6-n
+ts-y:
+{6-u:|j-6-u:|j-@}
+{i:-u:|j-i:|j-i:-u:}"
+		intervals [47]:
+			xmin = 39.377
+			xmax = 39.4197890625
+			text = "sil"
+		intervals [48]:
+			xmin = 39.4197890625
+			xmax = 39.9808671875
+			text = "k-i:-u:
+{k_h-8-y|k-8-y:|h-8-y:|k_h-8-y:|8-y:}"
+		intervals [49]:
+			xmin = 39.9808671875
+			xmax = 40.072
+			text = "sil"
+		intervals [50]:
+			xmin = 40.072
+			xmax = 40.413
+			text = "ts-O:-i:
+ts-6-p"
+		intervals [51]:
+			xmin = 40.413
+			xmax = 41.291
+			text = "sil"
+		intervals [52]:
+			xmin = 41.291
+			xmax = 44.583
+			text = "p-a:
+p-a:
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}
+{ts-6-i:|ts-@|6-u:|@|ts-6-u:|j-@}
+{6-u:|@|j-6-u:|j-@}
+s-i:
+{a:-n|k-a:-n}
+k-6-i:
+ts-U-k
+{w-u:-n|w-a:-n}
+{l-@|l-a:|n-@|n-a:}
+{w-u:-n|w-a:-n}
+j-6-u:
+{l-O:-k|f-6-i:|h-e-i:|f-u:}
+k-e-i:
+{l-@|l-a:|n-@|n-a:}"
+		intervals [53]:
+			xmin = 44.583
+			xmax = 45.079
+			text = "sil"
+		intervals [54]:
+			xmin = 45.079
+			xmax = 46.457
+			text = "{m|k-U-m|k-6-m|6-m}
+k-6-n
+ts-y:
+t-6-i:
+j-i:
+{ts_h-i:|ts-i:}
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}"
+		intervals [55]:
+			xmin = 46.457
+			xmax = 46.483
+			text = "sil"
+		intervals [56]:
+			xmin = 46.483
+			xmax = 47.857
+			text = "{ts-6-i:|ts-@|6-u:|@|ts-6-u:|j-@}
+{6-u:|j-6-u:|j-@}
+ts-O:-i:
+j-6-p
+{8-y:|h-8-y:}
+{l-@|l-a:|n-@|n-a:}"
+		intervals [57]:
+			xmin = 47.857
+			xmax = 48.298
+			text = "sil"
+		intervals [58]:
+			xmin = 48.298
+			xmax = 49.618
+			text = "{m|k-U-m|k-6-m|6-m}
+ts-O:-i:
+ts_h-E:-k
+{p-O:|f-a:-n|p_h-u:-n}
+{l-@|l-a:|n-@|n-a:}"
+		intervals [59]:
+			xmin = 49.618
+			xmax = 49.657
+			text = "sil"
+		intervals [60]:
+			xmin = 49.657
+			xmax = 51.524
+			text = "{m|k-U-m|k-6-m|6-m}
+k-6-n
+ts-y:"
+		intervals [61]:
+			xmin = 51.524
+			xmax = 51.537
+			text = "sil"
+		intervals [62]:
+			xmin = 51.537
+			xmax = 54.373
+			text = "{O:|N-O:}
+j-y:-n
+{l-6-i:|n-O:-i:|l-O:-i:}
+{t-u:|t-o-u:|t-@|t-U-u:|U-u:|o-u:}
+{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+s-6-u:
+{ts_h-6-n|s-a:-i:}
+h-6-i:
+t-i:
+{k_h_w-6-i:|k_w-6-i:}
+{l-8-y:|l-e-i:}
+{m-i:-n|p-i:-n}
+k-a:
+{w-a:|w-O:|w-@|k_h_w-a:}"
+		intervals [63]:
+			xmin = 54.373
+			xmax = 55.066
+			text = "sil"
+		intervals [64]:
+			xmin = 55.066
+			xmax = 56.317
+			text = "{E:|E:-h}
+k-6-n
+ts-y:
+{@|k-@|O:|N-O:|k-O:}
+s"
+		intervals [65]:
+			xmin = 56.317
+			xmax = 56.539
+			text = "sil"
+		intervals [66]:
+			xmin = 56.539
+			xmax = 57.043
+			text = "k-6-n
+ts-y:
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}"
+		intervals [67]:
+			xmin = 57.043
+			xmax = 57.0866640625
+			text = "sil"
+		intervals [68]:
+			xmin = 57.0866640625
+			xmax = 58.81666015625
+			text = "p-a:
+p-a:
+{ts-6-i:|ts-@|6-u:|@|ts-6-u:|j-@}
+k-i:-u:
+{k_h-8-y|k-8-y:|h-8-y:|k_h-8-y:|8-y:}
+k-6-i:
+ts-U-k
+ts-6-p
+{l-@|l-a:|n-@|n-a:}"
+		intervals [69]:
+			xmin = 58.81666015625
+			xmax = 59.494
+			text = "sil"
+		intervals [70]:
+			xmin = 59.494
+			xmax = 60.515
+			text = "ts-6-p
+{j-y:-n|y:-n}
+ts-i:
+{6-u:|h-6-u:}
+{w-a:|f-a:|j-i:-p}"
+		intervals [71]:
+			xmin = 60.515
+			xmax = 60.524
+			text = "sil"
+		intervals [72]:
+			xmin = 60.524
+			xmax = 62.439
+			text = "{O:|k_w-O:|k_h_w-O:|k-O:}
+ts-O:
+k-e-i:
+{@|k-@|O:|N-O:|k-O:}
+{ts-U-N|tS-U-N}
+{6-u:|j-6-u:|j-@}
+{o-u:|U-u:|h-o-u:|h-U-u:}
+{h-o-u:|ts_h-i:|h-U-u:|ts-i:}
+{o-u:|U-u:|h-o-u:|h-U-u:}
+{l-O:-i:|n-O:-i:}
+{w-a:|w-O:|w-@|k_h_w-a:}"
+		intervals [73]:
+			xmin = 62.439
+			xmax = 62.784
+			text = "sil"
+		intervals [74]:
+			xmin = 62.784
+			xmax = 63.501
+			text = "{m|k-U-m|k-6-m|6-m}
+k-6-n
+ts-y:"
+		intervals [75]:
+			xmin = 63.501
+			xmax = 63.586
+			text = "sil"
+		intervals [76]:
+			xmin = 63.586
+			xmax = 65.135
+			text = "{6-u:|j-6-u:|j-@}
+m-O:-N
+{p-O:|f-a:-n|p_h-u:-n}
+{@|k-@|O:|N-O:|k-O:}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:"
+		intervals [77]:
+			xmin = 65.135
+			xmax = 65.706
+			text = "sil"
+		intervals [78]:
+			xmin = 65.706
+			xmax = 66.205
+			text = "{E:|E:-h}"
+		intervals [79]:
+			xmin = 66.205
+			xmax = 66.8235859375
+			text = "sil"
+		intervals [80]:
+			xmin = 66.8235859375
+			xmax = 67.0368828125
+			text = "{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}"
+		intervals [81]:
+			xmin = 67.0368828125
+			xmax = 67.047
+			text = "sil"
+		intervals [82]:
+			xmin = 67.047
+			xmax = 67.839
+			text = "{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+{t_h-6-n|t-6-N}
+ts-O:
+{o-u:|U-u:|h-o-u:|h-U-u:}
+{l-O:-i:|n-O:-i:}
+{l-@|l-a:|n-@|n-a:}"
+		intervals [83]:
+			xmin = 67.839
+			xmax = 67.892
+			text = "sil"
+		intervals [84]:
+			xmin = 67.892
+			xmax = 68.258
+			text = "k-6-n
+ts-y:"
+		intervals [85]:
+			xmin = 68.258
+			xmax = 68.278
+			text = "sil"
+		intervals [86]:
+			xmin = 68.278
+			xmax = 72.232
+			text = "{t_h-6-i:|t-6-i:}
+{p-O:|f-a:-n|p_h-u:-n}
+{@|k-@|O:|N-O:|k-O:}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}
+{E:|E:-h}
+{a:-n|k-a:-n}
+f-O:-N
+t-i:-m
+{w-a:|h-a:|a:|j-a:|@|N-@|N-a:|n-@|m-@|m-a:|j-@|w-@|n-a:}
+ts-6-p
+{ts_h-I-N|s-E:-N|s-I-N}
+t-i:-m
+{w-a:|h-a:|a:|j-a:|@|N-@|N-a:|n-@|m-@|m-a:|j-@|w-@|n-a:}"
+		intervals [87]:
+			xmin = 72.232
+			xmax = 72.571
+			text = "sil"
+		intervals [88]:
+			xmin = 72.571
+			xmax = 74.245
+			text = "k-O:
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+{o-u:|U-u:|h-o-u:|h-U-u:}
+{n-o-u:|n-U-u:|l-o-u:|l-U-u:}
+l-I-k
+{o-u:|U-u:|h-o-u:|h-U-u:}
+k-6-i:
+ts-U-k"
+		intervals [89]:
+			xmin = 74.245
+			xmax = 74.432
+			text = "sil"
+		intervals [90]:
+			xmin = 74.432
+			xmax = 77.481
+			text = "{o-u:|U-u:|h-o-u:|h-U-u:}
+s-9:-N
+t_h-U-N
+p-a:
+p-a:
+{w-u:-n|w-a:-n}
+{t-a:|t-6-i:|t-@|t-a:-n|t-a:-i:}
+{l-e-i:|6-i:|h-a:|h-a:-i:|h-6-i:|@|h-@}
+{6-u:|j-6-u:|j-@}
+{i:-u:|j-i:|j-i:-u:}
+ts-O:-i:
+ts-6-p
+{w-u:-n|w-a:-n}
+k-8-y:"
+		intervals [91]:
+			xmin = 77.481
+			xmax = 78.098
+			text = "sil"
+		intervals [92]:
+			xmin = 78.098
+			xmax = 81.207
+			text = "{m|k-U-m|k-6-m|6-m}
+k-6-n
+ts-y:
+{@|k-@|O:|N-O:|k-O:}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+{o-u:|U-u:|h-o-u:|h-U-u:}
+{n-o-u:|n-U-u:|l-o-u:|l-U-u:}
+l-I-k
+ts-6-p
+{l-@|l-a:|n-@|n-a:}"
+		intervals [93]:
+			xmin = 81.207
+			xmax = 81.215
+			text = "sil"
+		intervals [94]:
+			xmin = 81.215
+			xmax = 82.103
+			text = "ts-6-p
+{j-y:-n|y:-n}
+ts-i:
+{6-u:|h-6-u:}
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}"
+		intervals [95]:
+			xmin = 82.103
+			xmax = 82.255
+			text = "sil"
+		intervals [96]:
+			xmin = 82.255
+			xmax = 83.184
+			text = "ts-U-N
+{y:|j-y:|w-u:}
+ts-6-p
+{ts_h-6-n|s-a:-i:}
+{l-@|l-a:|n-@|n-a:}"
+		intervals [97]:
+			xmin = 83.184
+			xmax = 83.239
+			text = "sil"
+		intervals [98]:
+			xmin = 83.239
+			xmax = 84.419
+			text = "k-6-n
+ts-y:
+p-a:
+p-a:
+{o-u:|U-u:|h-o-u:|h-U-u:}
+m-u:-n
+j-i:
+{l-@|l-a:|n-@|n-a:}"
+		intervals [99]:
+			xmin = 84.419
+			xmax = 84.447
+			text = "sil"
+		intervals [100]:
+			xmin = 84.447
+			xmax = 84.817
+			text = "{m|k-U-m|k-6-m|6-m}
+{w-a:|h-a:|a:|j-a:|@|N-@|N-a:|n-@|m-@|m-a:|j-@|w-@|n-a:}"
+		intervals [101]:
+			xmin = 84.817
+			xmax = 85.145
+			text = "sil"
+		intervals [102]:
+			xmin = 85.145
+			xmax = 87.22
+			text = "ts-U-N
+{y:|j-y:|w-u:}
+h-O:
+{j-i:|i:}
+t_h-U-N
+p-a:
+p-a:
+{6-k|j-6-t|@|6-t|j-@}
+{ts-a:-i:|ts-6-i:|ts_h-6-i:|ts-i:}
+{w-u:-n|w-a:-n}
+{l-@|l-a:|n-@|n-a:}"
+		intervals [103]:
+			xmin = 87.22
+			xmax = 87.287
+			text = "sil"
+		intervals [104]:
+			xmin = 87.287
+			xmax = 88.659
+			text = "t-i:-m
+{k_h_w-6-i:|k_w-6-i:}
+ts-i:
+{l-e-i:|j-i:|l-E:|j-E:|l-@|n-i:|E:|@|n-@|l-i:|n-e-i:|n-E:|i:}
+{@|k-@|O:|N-O:|k-O:}
+s-i:-u:
+{p_h-@|p_h-6-N|p_h-6-n}
+j-6-u:
+{o-u:|U-u:|h-o-u:|h-U-u:}
+k-u:-i:"
+		intervals [105]:
+			xmin = 88.659
+			xmax = 88.938
+			text = "sil"
+		intervals [106]:
+			xmin = 88.938
+			xmax = 89.652
+			text = "{ts-6-i:|ts-@|6-u:|@|ts-6-u:|j-@}
+f-6-n
+{ts-9:-k|ts-y:}
+ts-O:
+{l-@|l-a:|n-@|n-a:}"
+		intervals [107]:
+			xmin = 89.652
+			xmax = 92.0105209350586
+			text = "sil"

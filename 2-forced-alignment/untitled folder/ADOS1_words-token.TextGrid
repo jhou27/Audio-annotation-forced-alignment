@@ -1,0 +1,420 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 65.31497916666666
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Tokens"
+		xmin = 0.0
+		xmax = 65.31497916666666
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.4252680666369777
+			text = "#"
+		intervals [2]:
+			xmin = 1.4252680666369777
+			xmax = 4.222863800022076
+			text = "欸
+跟住
+欸
+去
+到
+日頭
+嗰陣時
+啲
+青蛙
+呢
+就"
+		intervals [3]:
+			xmin = 4.222863800022076
+			xmax = 4.860069407540883
+			text = "#"
+		intervals [4]:
+			xmin = 4.860069407540883
+			xmax = 6.8200845682567
+			text = "欸
+飛
+唔
+起
+噉樣
+就
+開始
+跌落嚟"
+		intervals [5]:
+			xmin = 6.8200845682567
+			xmax = 12.332451412612313
+			text = "#"
+		intervals [6]:
+			xmin = 12.332451412612313
+			xmax = 14.852411688921613
+			text = "然後
+佢哋
+好
+快
+噉樣
+就
+翻
+湖
+入便
+喇"
+		intervals [7]:
+			xmin = 14.852411688921613
+			xmax = 19.38531792181035
+			text = "#"
+		intervals [8]:
+			xmin = 19.38531792181035
+			xmax = 20.327448735271172
+			text = "欸
+喺度
+測試
+緊"
+		intervals [9]:
+			xmin = 20.327448735271172
+			xmax = 24.43756275308848
+			text = "#"
+		intervals [10]:
+			xmin = 24.43756275308848
+			xmax = 25.96266027718324
+			text = "跟住
+欸
+有啲"
+		intervals [11]:
+			xmin = 25.96266027718324
+			xmax = 26.29281584187996
+			text = "#"
+		intervals [12]:
+			xmin = 26.29281584187996
+			xmax = 28.544857638267406
+			text = "日頭
+嗰陣時
+就
+有
+人
+去
+檢查
+呢"
+		intervals [13]:
+			xmin = 28.544857638267406
+			xmax = 29.310934108594424
+			text = "#"
+		intervals [14]:
+			xmin = 29.310934108594424
+			xmax = 32.13251064285544
+			text = "就
+發
+覺
+欸
+一啲
+葉
+就
+喺
+街
+上面
+喇"
+		intervals [15]:
+			xmin = 32.13251064285544
+			xmax = 47.91590210083775
+			text = "#"
+		intervals [16]:
+			xmin = 47.91590210083775
+			xmax = 48.71554039753426
+			text = "跟住
+見"
+		intervals [17]:
+			xmin = 48.71554039753426
+			xmax = 49.52217778598785
+			text = "#"
+		intervals [18]:
+			xmin = 49.52217778598785
+			xmax = 51.029438052976936
+			text = "係咪
+見到
+有啲
+野
+喺"
+		intervals [19]:
+			xmin = 51.029438052976936
+			xmax = 51.19046382745523
+			text = "#"
+		intervals [20]:
+			xmin = 51.19046382745523
+			xmax = 51.91849022245269
+			text = "天
+上面
+飛
+啊"
+		intervals [21]:
+			xmin = 51.91849022245269
+			xmax = 57.017362796448886
+			text = "#"
+		intervals [22]:
+			xmin = 57.017362796448886
+			xmax = 58.35168769191559
+			text = "欸
+跟住
+就
+欸"
+		intervals [23]:
+			xmin = 58.35168769191559
+			xmax = 58.543529030764795
+			text = "#"
+		intervals [24]:
+			xmin = 58.543529030764795
+			xmax = 59.75601911557265
+			text = "第二
+日
+就
+系
+欸
+呢"
+		intervals [25]:
+			xmin = 59.75601911557265
+			xmax = 60.48034352955154
+			text = "#"
+		intervals [26]:
+			xmin = 60.48034352955154
+			xmax = 61.86848136614955
+			text = "嗰啲
+豬
+就
+系
+天空
+度
+飛"
+		intervals [27]:
+			xmin = 61.86848136614955
+			xmax = 65.31497916666666
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "OccTokens"
+		xmin = 0.0
+		xmax = 65.31497916666666
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.4252680666369777
+			text = "1"
+		intervals [2]:
+			xmin = 1.4252680666369777
+			xmax = 4.222863800022076
+			text = "11"
+		intervals [3]:
+			xmin = 4.222863800022076
+			xmax = 4.860069407540883
+			text = "1"
+		intervals [4]:
+			xmin = 4.860069407540883
+			xmax = 6.8200845682567
+			text = "8"
+		intervals [5]:
+			xmin = 6.8200845682567
+			xmax = 12.332451412612313
+			text = "1"
+		intervals [6]:
+			xmin = 12.332451412612313
+			xmax = 14.852411688921613
+			text = "10"
+		intervals [7]:
+			xmin = 14.852411688921613
+			xmax = 19.38531792181035
+			text = "1"
+		intervals [8]:
+			xmin = 19.38531792181035
+			xmax = 20.327448735271172
+			text = "4"
+		intervals [9]:
+			xmin = 20.327448735271172
+			xmax = 24.43756275308848
+			text = "1"
+		intervals [10]:
+			xmin = 24.43756275308848
+			xmax = 25.96266027718324
+			text = "3"
+		intervals [11]:
+			xmin = 25.96266027718324
+			xmax = 26.29281584187996
+			text = "1"
+		intervals [12]:
+			xmin = 26.29281584187996
+			xmax = 28.544857638267406
+			text = "8"
+		intervals [13]:
+			xmin = 28.544857638267406
+			xmax = 29.310934108594424
+			text = "1"
+		intervals [14]:
+			xmin = 29.310934108594424
+			xmax = 32.13251064285544
+			text = "11"
+		intervals [15]:
+			xmin = 32.13251064285544
+			xmax = 47.91590210083775
+			text = "1"
+		intervals [16]:
+			xmin = 47.91590210083775
+			xmax = 48.71554039753426
+			text = "2"
+		intervals [17]:
+			xmin = 48.71554039753426
+			xmax = 49.52217778598785
+			text = "1"
+		intervals [18]:
+			xmin = 49.52217778598785
+			xmax = 51.029438052976936
+			text = "5"
+		intervals [19]:
+			xmin = 51.029438052976936
+			xmax = 51.19046382745523
+			text = "1"
+		intervals [20]:
+			xmin = 51.19046382745523
+			xmax = 51.91849022245269
+			text = "4"
+		intervals [21]:
+			xmin = 51.91849022245269
+			xmax = 57.017362796448886
+			text = "1"
+		intervals [22]:
+			xmin = 57.017362796448886
+			xmax = 58.35168769191559
+			text = "4"
+		intervals [23]:
+			xmin = 58.35168769191559
+			xmax = 58.543529030764795
+			text = "1"
+		intervals [24]:
+			xmin = 58.543529030764795
+			xmax = 59.75601911557265
+			text = "6"
+		intervals [25]:
+			xmin = 59.75601911557265
+			xmax = 60.48034352955154
+			text = "1"
+		intervals [26]:
+			xmin = 60.48034352955154
+			xmax = 61.86848136614955
+			text = "7"
+		intervals [27]:
+			xmin = 61.86848136614955
+			xmax = 65.31497916666666
+			text = "1"
+	item [3]:
+		class = "IntervalTier"
+		name = "DurTokens"
+		xmin = 0.0
+		xmax = 65.31497916666666
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.4252680666369777
+			text = "1.4253"
+		intervals [2]:
+			xmin = 1.4252680666369777
+			xmax = 4.222863800022076
+			text = "2.7976"
+		intervals [3]:
+			xmin = 4.222863800022076
+			xmax = 4.860069407540883
+			text = "0.6372"
+		intervals [4]:
+			xmin = 4.860069407540883
+			xmax = 6.8200845682567
+			text = "1.96"
+		intervals [5]:
+			xmin = 6.8200845682567
+			xmax = 12.332451412612313
+			text = "5.5124"
+		intervals [6]:
+			xmin = 12.332451412612313
+			xmax = 14.852411688921613
+			text = "2.52"
+		intervals [7]:
+			xmin = 14.852411688921613
+			xmax = 19.38531792181035
+			text = "4.5329"
+		intervals [8]:
+			xmin = 19.38531792181035
+			xmax = 20.327448735271172
+			text = "0.9421"
+		intervals [9]:
+			xmin = 20.327448735271172
+			xmax = 24.43756275308848
+			text = "4.1101"
+		intervals [10]:
+			xmin = 24.43756275308848
+			xmax = 25.96266027718324
+			text = "1.5251"
+		intervals [11]:
+			xmin = 25.96266027718324
+			xmax = 26.29281584187996
+			text = "0.3302"
+		intervals [12]:
+			xmin = 26.29281584187996
+			xmax = 28.544857638267406
+			text = "2.252"
+		intervals [13]:
+			xmin = 28.544857638267406
+			xmax = 29.310934108594424
+			text = "0.7661"
+		intervals [14]:
+			xmin = 29.310934108594424
+			xmax = 32.13251064285544
+			text = "2.8216"
+		intervals [15]:
+			xmin = 32.13251064285544
+			xmax = 47.91590210083775
+			text = "15.7834"
+		intervals [16]:
+			xmin = 47.91590210083775
+			xmax = 48.71554039753426
+			text = "0.7996"
+		intervals [17]:
+			xmin = 48.71554039753426
+			xmax = 49.52217778598785
+			text = "0.8066"
+		intervals [18]:
+			xmin = 49.52217778598785
+			xmax = 51.029438052976936
+			text = "1.5073"
+		intervals [19]:
+			xmin = 51.029438052976936
+			xmax = 51.19046382745523
+			text = "0.161"
+		intervals [20]:
+			xmin = 51.19046382745523
+			xmax = 51.91849022245269
+			text = "0.728"
+		intervals [21]:
+			xmin = 51.91849022245269
+			xmax = 57.017362796448886
+			text = "5.0989"
+		intervals [22]:
+			xmin = 57.017362796448886
+			xmax = 58.35168769191559
+			text = "1.3343"
+		intervals [23]:
+			xmin = 58.35168769191559
+			xmax = 58.543529030764795
+			text = "0.1918"
+		intervals [24]:
+			xmin = 58.543529030764795
+			xmax = 59.75601911557265
+			text = "1.2125"
+		intervals [25]:
+			xmin = 59.75601911557265
+			xmax = 60.48034352955154
+			text = "0.7243"
+		intervals [26]:
+			xmin = 60.48034352955154
+			xmax = 61.86848136614955
+			text = "1.3881"
+		intervals [27]:
+			xmin = 61.86848136614955
+			xmax = 65.31497916666666
+			text = "3.4465"
